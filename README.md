@@ -15,11 +15,13 @@
  basic plotting functions are defined in covidSR_plot_functions
 
  -------------------- Install/Prepare -------------------------
+ 
  for use with PyCharm see: https://youtu.be/a8MckiothGc
  after downloading create the following directory (to save results - else the given local paths will not work):
  covidSR_results
 
  -------------------- Use -------------------------------------
+ 
  define the scenarios of interest in a file and run 'modelSuperinfection'
  it will generate files of the result, the parameters, the values of the variables at the time steps
  the 'name' will appear in all the filenames to identify them
