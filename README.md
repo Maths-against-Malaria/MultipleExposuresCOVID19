@@ -1,5 +1,6 @@
- MultipleExposuresCOVID19
- code for the publication 'Is increased mortality by multiple exposures to COVID-19 an overseen factor when aiming for herd immunity?'
+ # MultipleExposuresCOVID19
+ 
+ Code for the publication 'Is increased mortality by multiple exposures to COVID-19 an overseen factor when aiming for herd immunity?'
  by Kristina B. Helle, Arlinda Sadiku, Girma M. Zelleke, Aliou Bouba, Toheeb B. Ibrahim, H. Christian Jr. Tsoungui Obama, Vincent Appiah, Gideon A. Ngwa, Miranda I. Teboh-Ewungkem, Kristan A. Schneider
 
  the functions to run the model are in the following files that do not need to be changed unless there are fundamental changes to the model
